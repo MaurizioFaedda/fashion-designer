@@ -26,7 +26,7 @@
           <a class="nav-link" href="#section">Portfolio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contacts</a>
+          <a class="nav-link" href="#contacts">Contacts</a>
         </li>
       </ul>
     </div>

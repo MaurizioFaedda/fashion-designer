@@ -3,6 +3,7 @@
     <NavBar />
     <Jumbotron />
     <Section />
+    <contacts />
   </div>
 </template>
 
@@ -10,6 +11,7 @@
 import NavBar from "./components/NavBar.vue";
 import Jumbotron from "./components/Jumbotron.vue";
 import Section from "./components/Section.vue";
+import Contacts from "./components/Contacts.vue";
 
 export default {
   name: "App",
@@ -17,6 +19,7 @@ export default {
     NavBar,
     Jumbotron,
     Section,
+    Contacts,
   },
 };
 </script>

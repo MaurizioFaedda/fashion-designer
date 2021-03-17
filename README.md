@@ -1,4 +1,4 @@
-# marco_portfolio
+# fashion-designer
 
 ## Project setup
 ```

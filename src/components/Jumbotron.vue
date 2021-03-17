@@ -1,16 +1,14 @@
 <template>
   <div
-    data-aos="fade-up"
-    data-aos-duration="3000"
+    data-aos="fade-down"
+    data-aos-easing="linear"
+    data-aos-duration="1500"
     class="jumbotron jumbotron-fluid"
   >
     <div class="container">
-      <div>
+      <div class="text-right">
         <h1 class="display-4 text-light">Marco Marongiu</h1>
-        <p class="lead text-light">
-          This is a modified jumbotron that occupies the entire horizontal space
-          of its parent.
-        </p>
+        <p class="lead text-light">Lorem ipsum dolor sit amet</p>
       </div>
     </div>
   </div>

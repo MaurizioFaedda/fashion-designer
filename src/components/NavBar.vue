@@ -9,7 +9,9 @@
       aria-expanded="false"
       aria-label="Toggle navigation"
     >
-      <span class="navbar-toggler-icon"></span>
+      <span class="navbar-toggler-icon text-dark"
+        ><i class="fas fa-bars"></i
+      ></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -40,6 +42,9 @@ export default {
 .my-nav {
   background-color: #fff;
   //   border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  .my-btn {
+    color: red !important;
+  }
   .nav-link {
     color: rgba(0, 0, 0, 0.6);
     &:hover {

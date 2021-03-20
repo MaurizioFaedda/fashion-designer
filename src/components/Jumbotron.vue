@@ -8,7 +8,7 @@
     <div class="container">
       <div class="text-right">
         <h1 class="display-4 text-light">Marco Marongiu</h1>
-        <p class="lead text-light">Lorem ipsum dolor sit amet</p>
+        <p class="lead text-light">Lorem ipsum dolor sit amet pinco pallino</p>
       </div>
     </div>
   </div>
